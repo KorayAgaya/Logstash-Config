@@ -13,4 +13,6 @@ http://www.505forensics.com/who-have-your-logs-been-talking-to/
 
 http://www.fastfire.org/2015/12/18/visualize-pfsense-snort-logs-on-kibana/
 
+https://discuss.elastic.co/t/logstash-snort-implementation/32386
+
 http://www.fastfire.org/2015/12/18/visualize-pfsense-snort-logs-on-kibana/
