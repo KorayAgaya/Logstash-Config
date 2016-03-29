@@ -25,3 +25,6 @@ https://blog.reboost.net/suricata-on-pfsense-to-elk-stack/
 http://nidofortified.blogspot.com.tr/2014/06/suricata-with-logstash-part-3-setup-and.html
 https://github.com/sysforensics/LogstashConfigs
 
+#logstash
+https://cinhtau.net/wp/tag/logstash/
+
