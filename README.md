@@ -20,6 +20,7 @@ http://www.fastfire.org/2015/12/18/visualize-pfsense-snort-logs-on-kibana/
 #SURICATA
 
 https://blog.reboost.net/suricata-on-pfsense-to-elk-stack/
+
 https://www.bilgiguvenligi.gov.tr/saldiri-tespit-sistemleri/saldiri-tespit-sistemleri-snort-suricata-bro.html
 
 # NSM
@@ -28,13 +29,17 @@ https://github.com/sysforensics/LogstashConfigs
 
 # SELKS
 S - Suricata IDPS - http://suricata-ids.org/
+
 E - Elasticsearch - http://www.elasticsearch.org/overview/
+
 L - Logstash - http://www.elasticsearch.org/overview/
+
 K - Kibana - http://www.elasticsearch.org/overview/
+
 S - Scirius - https://github.com/StamusNetworks/scirius
 
 https://github.com/StamusNetworks/SELKS
 
-#logstash
+#Logstash
 https://cinhtau.net/wp/tag/logstash/
 
