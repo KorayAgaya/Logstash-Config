@@ -1,0 +1,1 @@
+echo -n "Elasticsearch100" >/dev/udp/localhost/5141
