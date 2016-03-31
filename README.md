@@ -52,5 +52,7 @@ https://github.com/elastic/logstash/blob/v1.4.2/patterns/grok-patterns
 
 http://grokdebug.herokuapp.com/
 
+https://home.regit.org/2014/01/a-bit-of-logstash-cooking/
+
 
 
