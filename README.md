@@ -43,3 +43,14 @@ https://github.com/StamusNetworks/SELKS
 #Logstash
 https://cinhtau.net/wp/tag/logstash/
 
+# Logstash Parse
+https://blog.lanyonm.org/articles/2014/01/12/logstash-multiline-tomcat-log-parsing.html
+
+https://www.loggly.com/docs/logstash-custom-parsing-loggly/
+
+https://github.com/elastic/logstash/blob/v1.4.2/patterns/grok-patterns
+
+http://grokdebug.herokuapp.com/
+
+
+
