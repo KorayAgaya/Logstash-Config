@@ -54,5 +54,8 @@ http://grokdebug.herokuapp.com/
 
 https://home.regit.org/2014/01/a-bit-of-logstash-cooking/
 
+Mcafee Log
+==========
 
+%{WORD:hostname} %{WORD:action} %{WORD:attack} %{WORD} %{WORD:service_type}%{SPACE=:} %{GREEDYDATA:attack_type} [%{SPACE=)}]%{WORD} %{SPACE==} %{WORD:severity}%{DATA}%{DATA} %{IPV4:kaynak_ip}%{SPACE=:}%{INT:kaynak_port} %{SPACE=->} %{IPV4:hedef_ip}%{SPACE=:}%{INT:hedef_port} %{DATA} %{SPACE==} %{DATA}%{GREEDYDATA:result}[%{SPACE=)}]
 
