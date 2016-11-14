@@ -54,6 +54,11 @@ http://grokdebug.herokuapp.com/
 
 https://home.regit.org/2014/01/a-bit-of-logstash-cooking/
 
+How To Troubleshoot Common ELK Stack Issues
+==============================
+
+https://www.digitalocean.com/community/tutorials/how-to-troubleshoot-common-elk-stack-issues
+
 Mcafee Log
 ==========
 
