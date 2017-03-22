@@ -1,3 +1,16 @@
+Suricata rules with Lua
+=======================
+
+https://blog.nviso.be/2017/03/10/developing-complex-suricata-rules-with-lua-part-1/
+
+https://blog.nviso.be/2017/03/15/developing-complex-suricata-rules-with-lua-part-2/
+
+Suricata Extreme Performance Tuning guide
+--------------------------------------------
+
+https://github.com/KorayAgaya/SEPTun
+
+
 # Logstash-Config
 
 https://elijahpaul.co.uk/monitoring-pfsense-2-1-logs-using-elk-logstash-kibana-elasticsearch/
